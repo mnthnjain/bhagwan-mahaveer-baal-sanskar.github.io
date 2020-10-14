@@ -29,6 +29,10 @@ p {
   color: rgba(255, 255, 255, 0.3);
 }
 
+.ml-auto {
+  z-index: 3;
+}
+
 .site-heading {
   margin-top: 5rem;
   margin-bottom: 5rem;
