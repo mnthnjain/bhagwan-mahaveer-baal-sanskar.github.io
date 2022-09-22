@@ -3,6 +3,7 @@
 [Business Casual](http://startbootstrap.com/template-overviews/business-casual/) is a multipurpose website theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
 
 ## Preview
+This page is actually linking to live website, kindly visit: **[Bhagwan Mahaveer Bal Sanskar school website](https://mbsschool.in/)**
 
 [![Business Casual Preview](https://startbootstrap.com/assets/img/screenshots/themes/business-casual.png)](https://blackrockdigital.github.io/startbootstrap-business-casual/)
 
